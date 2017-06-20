@@ -3,3 +3,6 @@ function flatten(arrays) {
 
     return _arrays.reduceRight((v, sum) => sum.concat(v), []);
 }
+
+C:\Users\cho.kaho.IND\Documents\testGitHubRepository
+clone : 1 
