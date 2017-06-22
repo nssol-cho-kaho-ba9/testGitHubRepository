@@ -6,3 +6,5 @@ function flatten(arrays) {
 
 C:\Users\cho.kaho.IND\Documents\testGitHubRepository
 clone : 1 
+
+test:2
